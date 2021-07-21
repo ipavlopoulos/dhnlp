@@ -1,3 +1,4 @@
+Reading material, regarding Python, NLP, machine and deep learning, vision for the digital humanities.
 * https://edu.epfl.ch/coursebook/en/machine-learning-for-dh-DH-406 is coursebook focused on machine learning for digital humanities.
 * https://github.com/SteffenEger/dldh seems like a reading group and it is related to deep learning applied to digital humanities. 
 * https://www.youtube.com/channel/UC5vr5PwcXiKX_-6NTteAlXw is a series of Python tutorials for digital humanities (188 tutorials, from 5’ to 30’) explaining all about Python, ML, and more.
