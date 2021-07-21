@@ -1,0 +1,2 @@
+* [Language technology for digital humanities: introduction to the special issue](https://link.springer.com/article/10.1007/s10579-019-09482-4) is the manuscript complementing the Language Technology for Digital Humanities COLING 2016 workshop.		 
+* [Machine Learning for DH](https://edu.epfl.ch/coursebook/en/machine-learning-for-dh-DH-406) is a coursebook introducing the basic principles of machine learning in the context of the digital humanities.
