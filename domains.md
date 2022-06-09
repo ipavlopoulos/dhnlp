@@ -5,7 +5,9 @@
  * Chronological
  * Dating
 
-# Resources annotation, automated or model-assisted
+# Resources annotation
+* Automated
+* Model-assisted
 
 # Text (character, word, text) recognition
  * Optical (OCR)
