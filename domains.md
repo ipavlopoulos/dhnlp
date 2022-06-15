@@ -20,6 +20,7 @@
 # Text restoration (digital archaeology)
 
 # Informative visualisations
+#Text based Statistics 
 
 # Language change detection
 
