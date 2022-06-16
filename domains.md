@@ -39,6 +39,8 @@
 # Offensive language analysis
 
 # Music and religious studies
+ * Digital Archives 
+ * Visualizations
 
 # Linking outside resources into the analysis
 # Supporting serendipitous and guided discovery
