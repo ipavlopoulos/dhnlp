@@ -1,6 +1,6 @@
 
 # Attribution 
- * Αuthorship
+ * Αuthorships
  * Geographical
  * Chronological
  * Dating
